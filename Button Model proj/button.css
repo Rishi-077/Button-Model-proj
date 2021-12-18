@@ -1,0 +1,23 @@
+body {
+	background-color: #001d3d;
+	text-align: center;
+	justify-content: center;
+	line-height: 500px;
+	
+}
+button {
+	background-color:  #001d3d;
+	padding: 1em 2em;
+	border: 2px solid  #ffbd00;
+	font-size: 1em;
+	transition: 0.25s;
+	border-radius: 5px;
+}
+button:hover{
+	border-color:  #f1ff5c;
+	color: white;
+	box-shadow: 0 1em 1.5em -1em #f1ff5c;
+	transform: translateY(-3px);
+
+
+}
